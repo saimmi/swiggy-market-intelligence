@@ -115,3 +115,10 @@ Raw CSV → PostgreSQL (clean + model) → Python (EDA + stats) → Power BI (da
 ---
 
 <sub>Dataset: Swiggy restaurants via Kaggle, Jan 2022 snapshot. All figures computed directly from the cleaned tables.</sub>
+---
+## Project Links
+
+- 📁 [GitHub Repository](https://github.com/saimmi/swiggy-market-intelligence)
+- 📝 [Blog / Case Study](https://saimmi.github.io/zepto-sql-business-analysis/)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/s-nisha-31a78b212/)
+
