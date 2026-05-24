@@ -4,7 +4,7 @@
 
 An end-to-end data analytics case study — from a messy, scraped CSV to a stakeholder dashboard and a written recommendation. Built with **PostgreSQL → Python → Power BI**.
 
-📖 **[Read the full analytical write-up →](./swiggy-market-intelligence.html)**
+📖 **[Read the full analytical write-up →](https://saimmi.github.io/swiggy-market-intelligence/)**
 
 ---
 
@@ -119,6 +119,6 @@ Raw CSV → PostgreSQL (clean + model) → Python (EDA + stats) → Power BI (da
 ## Project Links
 
 - 📁 [GitHub Repository](https://github.com/saimmi/swiggy-market-intelligence)
-- 📝 [Blog / Case Study](https://saimmi.github.io/zepto-sql-business-analysis/)
+- 📝 [Blog / Case Study](https://saimmi.github.io/swiggy-market-intelligence/)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/s-nisha-31a78b212/)
 
