@@ -87,7 +87,7 @@ Raw CSV → PostgreSQL (clean + model) → Python (EDA + stats) → Power BI (da
 | [`Dashboard_PowerBi.pdf`](./Dashboard_PowerBi.pdf) | Dashboard exported as PDF for quick viewing |
 | [`restaurants_clean.csv`](./restaurants_clean.csv) | Cleaned fact table — 8,691 rows × 21 columns |
 | [`restaurant_cuisines.csv`](./restaurant_cuisines.csv) | Cuisine bridge table — 23,652 rows |
-| [`swiggy-market-intelligence.html`](./swiggy-market-intelligence.html) | The full analytical write-up (open in a browser / GitHub Pages) |
+| [`index.html`](./index.html) | The full analytical write-up (open in a browser / GitHub Pages) |
 
 ---
 
